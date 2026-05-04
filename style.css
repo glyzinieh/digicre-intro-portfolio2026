@@ -1,0 +1,18 @@
+h1 {
+    color: red;
+}
+
+.list {
+    color: blue;
+}
+
+#paragraph {
+    color: green;
+}
+
+.list {
+    padding: 10px 40px;
+    background-color: lightgray;
+    border: 10px dashed black;
+    border-radius: 5px;
+}
